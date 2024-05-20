@@ -1,10 +1,7 @@
 192.168.1.1 gateway
 192.168.1.1 gateway.local.home
-192.168.1.10 nas
 192.168.1.10 nas.local.home
-192.168.1.11 n5550
 192.168.1.11 n5550.local.home
-192.168.1.5 nuc 
 192.168.1.5 nuc.local.home
 
 0.0.0.0 9gag-trend.blogspot.com
