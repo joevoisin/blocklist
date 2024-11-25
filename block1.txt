@@ -1,2 +1,3 @@
 0.0.0.0 9gag-trend.blogspot.com
 0.0.0.0 thesauceis.com
+0.0.0.0 extensionwebstorebase.edgesv.net
